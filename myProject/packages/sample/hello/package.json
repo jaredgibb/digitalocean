@@ -1,0 +1,15 @@
+{
+  "name": "firebase-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jared Gibb",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "firebase": "^9.9.4"
+  }
+}
